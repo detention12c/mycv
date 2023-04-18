@@ -1,0 +1,24 @@
+/* *{
+    margin: 0;
+    padding: 0;
+} */
+body{
+    margin: 0;
+    background-color: #bfffea;
+}
+hr{
+    width: 20%;
+    color: rgb(134, 132, 132);
+    border-style: dotted none none;
+    /* or we can write border-top-style: dotted; */
+    border-width: 10px;
+    
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+
+h1{
+    color: rgb(0, 78, 223);
+}
