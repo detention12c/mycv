@@ -22,3 +22,6 @@ a{
 h1{
     color: rgb(0, 78, 223);
 }
+h1:hover{
+    background-color:yellow;
+}
